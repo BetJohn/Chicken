@@ -1,0 +1,50 @@
+*{
+    color:red;
+}
+
+.sus{
+    background-color: cyan;
+}
+.sus >h1{
+    color: purple;
+    text-align: center;
+}
+.nav{
+    border-color: green;
+}
+.middle{
+    background-color:indigo;
+    height: 200px;
+    width: 100%;
+}
+.middle>button{
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    background-color:gold;
+    margin: 0;
+    position: absolute;
+    top: 15%;
+    left: 47%;
+}
+.article>img{
+
+    align-self: center;
+    width: 100%;
+    height: 80% 
+}
+.article>p{
+    color: black;
+}
+#title{
+    text-align: center;
+    font-size: xx-large;
+}
+#info{
+    font-size: x-large;
+
+}
+.footer>p{
+    color: green;
+    font-size: 30px;
+}
